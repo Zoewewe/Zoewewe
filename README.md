@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi 👋, I'm Zoe.</h1>
+<h1 align="center">👋 Hi 👋</h1>
 
 ###
 
-<p align="center">I'm a cybersecurity and digital forensic student.</p>
+<p align="center">I'm Zoe, a cybersecurity and digital forensic student.</p>
 
 ###
 
